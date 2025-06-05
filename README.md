@@ -1,10 +1,5 @@
 Compiler Design Project - Hindi Language Compiler
 
-NAME: DHRUHI SHAH
-EN.ID: 22000381 
-Course_Incharge: Prof. Vaibhavi Patel
-
-
 Project Title:
 "Hindi-Based Simple Programming Language Compiler Using Lex and Yacc"
 
